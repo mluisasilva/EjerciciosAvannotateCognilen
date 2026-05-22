@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Analysis",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "analysis",
+  "created_at": "2026-05-22T15:02:15.950Z",
+  "created_by": "mluisasilva",
+  "updated_at": "2026-05-22T15:02:15.950Z",
+  "updated_by": "mluisasilva"
+}
