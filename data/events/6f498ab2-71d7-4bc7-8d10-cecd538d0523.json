@@ -1,0 +1,44 @@
+{
+  "audiovisual_files": {
+    "9281acef-0d90-486a-8884-bd4fa9e1468b": {
+      "label": "Visita jardin",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://drive.google.com/drive/u/0/folders/1a1VGZyD3HVXF47OE9dUCzkOYLjP98R__",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "4a56c2dc-bffc-4ec7-8c4f-f1e8d5889b2b": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Visita de niños a un jardín"
+        }
+      ]
+    }
+  ],
+  "citation": "Cognilen registros de ensayo",
+  "label": "Jardin intercambio",
+  "av_file_order": [
+    "9281acef-0d90-486a-8884-bd4fa9e1468b",
+    "4a56c2dc-bffc-4ec7-8c4f-f1e8d5889b2b"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/NKC/1.0/",
+  "created_at": "2026-05-22T14:52:40.407Z",
+  "created_by": "mluisasilva",
+  "updated_at": "2026-05-22T14:52:40.408Z",
+  "updated_by": "mluisasilva"
+}
